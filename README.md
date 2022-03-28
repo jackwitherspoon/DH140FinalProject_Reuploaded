@@ -40,3 +40,11 @@ https://jackwitherspoon.github.io/DH140FinalProject_Reuploaded/fastpages/jupyter
 
 # Relavent Files
 
+2022-03-14-DH140Final.ipynb
+  - The jupyter notebook that contains all the code and text narrative for this project
+
+Eastern_State_Admission_Book_A.csv
+  - Raw CSV file of the Eastern State Penitentiary Admissions Book
+
+Eastern_State_Admissions_Book.csv
+  - Cleaned CSV file of the Eastern State Penitentiary Admissions Book
