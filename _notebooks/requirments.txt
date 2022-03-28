@@ -1,0 +1,7 @@
+pandas
+csv
+matplotlib
+scipy 
+numpy
+sklearn
+statsmodels
