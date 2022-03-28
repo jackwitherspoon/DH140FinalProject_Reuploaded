@@ -31,8 +31,20 @@ Conducting research for this project has not only allowed me to strengthen my py
 
 # Check Out My Coding Notebook:
 
+https://mybinder.org/v2/gh/jackwitherspoon/DH140FinalProject_Reuploaded/2c98920aaf1097f9e8f4fa3bb84627ce6570d0ff?filepath=_notebooks%2F2022-03-14-DH140Final.ipynb
 
+View Notebook Through a Blog:
+
+https://jackwitherspoon.github.io/DH140FinalProject_Reuploaded/fastpages/jupyter/2022/03/14/DH140Final.html
 
 
 # Relavent Files
 
+2022-03-14-DH140Final.ipynb
+  - The jupyter notebook that contains all the code and text narrative for this project
+
+Eastern_State_Admission_Book_A.csv
+  - Raw CSV file of the Eastern State Penitentiary Admissions Book
+
+Eastern_State_Admissions_Book.csv
+  - Cleaned CSV file of the Eastern State Penitentiary Admissions Book
