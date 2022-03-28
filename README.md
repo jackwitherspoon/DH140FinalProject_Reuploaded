@@ -33,7 +33,9 @@ Conducting research for this project has not only allowed me to strengthen my py
 
 https://mybinder.org/v2/gh/jackwitherspoon/DH140FinalProject_Reuploaded/2c98920aaf1097f9e8f4fa3bb84627ce6570d0ff?filepath=_notebooks%2F2022-03-14-DH140Final.ipynb
 
+View Notebook Through a Blog:
 
+https://jackwitherspoon.github.io/DH140FinalProject_Reuploaded/fastpages/jupyter/2022/03/14/DH140Final.html
 
 
 # Relavent Files
